@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "question": "How are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "Where can I subscribe?",
+      "answer": "Idk, subscribe to what?"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "hi there",
+      "answer": "hi"
+    },
+    {
+      "question": "hello",
+      "answer": "welcome"
+    },
+    {
+      "question": "who is shreyas iyer",
+      "answer": "shreyas iyer is an cricket player"
+    },
+    {
+      "question": "\u001b[B\u001b[B\u001b[B\u001b[A\u001b[A\u001b[A\u001b[Aclear && python3 -u \"/Users/tarunrockzz100/Desktop/Hackindia2025/ChatBot.py\"",
+      "answer": "clear && python3 -u \"/Users/tarunrockzz100/Desktop/Hackindia2025/ChatBot.py\""
+    },
+    {
+      "question": "hey",
+      "answer": "hello is the answer"
+    },
+    {
+      "question": "what is college",
+      "answer": "students will study "
+    },
+    {
+      "question": "hackindia",
+      "answer": "biggest hackathon"
+    },
+    {
+      "question": "Hi iam chatbot",
+      "answer": "name"
+    },
+    {
+      "question": "is shreyas iyer a cricket player",
+      "answer": "what is hackindia"
+    },
+    {
+      "question": "hi",
+      "answer": "clear && python3 -u \"/Users/tarunrockzz100/Downloads/TTS.py\""
+    },
+    {
+      "question": "can you explain me about italy?",
+      "answer": "italy"
+    },
+    {
+      "question": "italy?",
+      "answer": "answer"
+    }
+  ]
+}
